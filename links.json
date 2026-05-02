@@ -1,0 +1,185 @@
+[
+  {
+    "id": "4a44fa24",
+    "url": "https://github.com/zarazhangrui/codebase-to-course",
+    "title": "codebase-to-course",
+    "description": "Claude Code skill that turns any codebase into interactive HTML course",
+    "category": "ai-tools",
+    "saved_at": "2026-04-01T12:45:38Z",
+    "tags": [
+      "ai",
+      "claude-code",
+      "llm"
+    ]
+  },
+  {
+    "id": "48b186f1",
+    "url": "https://www.howtogeek.com/presence-sensors-home-assistant-morning-routine/",
+    "title": "5 ways I use presence sensors with Home Assistant to automate my morning routine",
+    "description": "How-To Geek article about using presence sensors with Home Assistant for morning routine automations.",
+    "category": "uncategorized",
+    "saved_at": "2026-04-10T04:40:58Z",
+    "tags": [
+      "automation",
+      "home-assistant",
+      "sensors"
+    ]
+  },
+  {
+    "id": "e931cf54",
+    "url": "https://github.com/agittins/bermuda",
+    "title": "GitHub - agittins/bermuda: Bermuda Bluetooth/BLE Triangulation",
+    "description": "Bermuda Home Assistant integration for Bluetooth room presence using ESPHome proxies or Shelly devices.",
+    "category": "code",
+    "saved_at": "2026-04-10T04:40:58Z",
+    "tags": [
+      "bluetooth",
+      "esphome",
+      "home-assistant",
+      "presence"
+    ]
+  },
+  {
+    "id": "a72e2a1a",
+    "url": "https://www.xda-developers.com/i-ditched-plexs-official-app-for-an-open-source-alternative-that-actually-works/",
+    "title": "I ditched Plex's official app for an open-source alternative that actually works",
+    "description": "",
+    "category": "article",
+    "saved_at": "2026-04-12T14:46:21Z",
+    "original_url": "https://share.google/qzIPMnJeMbnQghG2U",
+    "tags": [
+      "media-server",
+      "open-source",
+      "plex"
+    ]
+  },
+  {
+    "id": "7323881b",
+    "url": "https://edition.cnn.com/2026/04/11/travel/travel-news-north-macedonia",
+    "title": "https://edition.cnn.com/2026/04/11/travel/travel-news-north-macedonia",
+    "description": "",
+    "category": "uncategorized",
+    "saved_at": "2026-04-13T04:02:26Z",
+    "original_url": "https://share.google/gXiLanfibS3X07IPH",
+    "tags": [
+      "north-macedonia",
+      "travel"
+    ]
+  },
+  {
+    "id": "25396614",
+    "url": "https://www.androidauthority.com/replaced-nas-with-google-drive-ssd-3656540/",
+    "title": "I replaced my NAS with Google Drive and barely noticed - Android Authority",
+    "description": "",
+    "category": "uncategorized",
+    "saved_at": "2026-04-13T11:27:56Z",
+    "original_url": "https://share.google/FEpmFzulIXmF3aOId",
+    "tags": [
+      "nas",
+      "self-hosting"
+    ]
+  },
+  {
+    "id": "9066bc73",
+    "url": "https://dify.ai/",
+    "title": "Dify: Leading Agentic Workflow Builder",
+    "description": "",
+    "category": "uncategorized",
+    "saved_at": "2026-04-13T21:19:41Z",
+    "original_url": "https://share.google/s7OZTqU1sT2YBZjeP",
+    "tags": [
+      "agent",
+      "ai",
+      "llm",
+      "workflow"
+    ]
+  },
+  {
+    "id": "ae6fb552",
+    "url": "https://www.linkedin.com/posts/rene-de-daniel-b108a413_sap-enterprisearchitect-sapcertification-activity-7449351324468543488-sqbo?utm_medium=ios_app&rcm=ACoAAAAidAgBnpb4OK7d8k7KEp2cVFhSEGJtXNM&utm_source=social_share_send&utm_campaign=share_via",
+    "title": "#sap #enterprisearchitect #sapcertification #certification #itarchitecture #continuouslearning #newformat #saplearning #careergrowth #p_sapea | Rene de Daniel | 20 comments",
+    "description": "",
+    "category": "uncategorized",
+    "saved_at": "2026-04-15T07:55:13Z",
+    "tags": [
+      "career",
+      "certification",
+      "enterprise-architect",
+      "sap"
+    ]
+  },
+  {
+    "id": "11494ef4",
+    "url": "https://blog.cloudflare.com/browser-run-for-ai-agents/",
+    "title": "Browser Run: give your agents a browser",
+    "description": "",
+    "category": "uncategorized",
+    "saved_at": "2026-04-16T02:37:38Z",
+    "original_url": "https://share.google/UK6NoB8V48Q99Y7nT",
+    "tags": [
+      "agents",
+      "ai",
+      "browser"
+    ]
+  },
+  {
+    "id": "580b9150",
+    "url": "https://www.howtogeek.com/home-assistant-projects-to-try-this-weekend-april-17-19/",
+    "title": "3 clever Home Assistant projects to try this weekend (April 17 - 19)",
+    "description": "",
+    "category": "article",
+    "saved_at": "2026-04-17T20:55:20Z",
+    "original_url": "https://share.google/9q3gWFqFXUUEIA3Wj",
+    "tags": [
+      "automation",
+      "home-assistant",
+      "projects"
+    ]
+  },
+  {
+    "id": "44279994",
+    "url": "https://www.xda-developers.com/ive-been-running-some-biggest-open-weight-llms-free-nvidia-cloud/",
+    "title": "I've been running some of the biggest open-weight LLMs for free on Nvidia's cloud",
+    "description": "",
+    "category": "article",
+    "saved_at": "2026-04-30T21:26:58Z",
+    "original_url": "https://share.google/cp8F5Ih0JVAg5EYhu",
+    "tags": [
+      "ai",
+      "cloud",
+      "llm",
+      "nvidia",
+      "open-weight"
+    ]
+  },
+  {
+    "id": "c73fb140",
+    "url": "https://www.willemsefrance.fr/products/viorne-rose?variant=52785442423130",
+    "title": "Viorne Rose - Viburnum bodnantense dawn",
+    "description": "",
+    "category": "uncategorized",
+    "saved_at": "2026-05-01T20:07:47Z",
+    "original_url": "https://share.google/U0hyTLpyGDhPy1ycf",
+    "tags": [
+      "viorne",
+      "rose",
+      "viburnum"
+    ]
+  },
+  {
+    "id": "57b111c1",
+    "url": "https://www.tomsguide.com/ai/i-asked-chatgpt-to-recreate-bryan-johnsons-usd2-million-anti-aging-routine-for-usd20-heres-what-worked",
+    "title": "I asked ChatGPT to recreate Bryan Johnson’s $2 million anti-aging routine for $20 — here’s what worked | Tom's Guide",
+    "description": "",
+    "category": "uncategorized",
+    "saved_at": "2026-05-02T03:09:59Z",
+    "original_url": "https://share.google/72icrbCdR2qI9eUn4",
+    "tags": [
+      "ai",
+      "anti-aging",
+      "chatgpt",
+      "health",
+      "longevity"
+    ]
+  }
+]
