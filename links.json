@@ -214,5 +214,20 @@
       "theatre",
       "paris"
     ]
+  },
+  {
+    "id": "372fbc1e",
+    "url": "https://mubi.com/tr/users/377431",
+    "title": "Akin's MUBI profile",
+    "description": "Akin’s MUBI user profile; user id 377431 for mediastream MUBI integration.",
+    "category": "media",
+    "saved_at": "2026-05-08T12:22:55Z",
+    "tags": [
+      "mubi",
+      "profile",
+      "streaming",
+      "watchlist",
+      "akin"
+    ]
   }
 ]

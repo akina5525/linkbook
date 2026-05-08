@@ -264,5 +264,24 @@
     "saved_date": "2026-05-04",
     "saved_month": "2026-05",
     "domain": "cnsad.psl.eu"
+  },
+  {
+    "id": "372fbc1e",
+    "url": "https://mubi.com/tr/users/377431",
+    "original_url": "",
+    "title": "Akin's MUBI profile",
+    "description": "Akin’s MUBI user profile; user id 377431 for mediastream MUBI integration.",
+    "category": "media",
+    "tags": [
+      "akin",
+      "mubi",
+      "profile",
+      "streaming",
+      "watchlist"
+    ],
+    "saved_at": "2026-05-08T12:22:55Z",
+    "saved_date": "2026-05-08",
+    "saved_month": "2026-05",
+    "domain": "mubi.com"
   }
 ]
