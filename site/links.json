@@ -283,5 +283,24 @@
     "saved_date": "2026-05-08",
     "saved_month": "2026-05",
     "domain": "mubi.com"
+  },
+  {
+    "id": "ddfc9741",
+    "url": "https://github.com/openai/symphony",
+    "original_url": "",
+    "title": "GitHub - openai/symphony: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. · GitHub",
+    "description": "",
+    "category": "code",
+    "tags": [
+      "agents",
+      "automation",
+      "coding-agents",
+      "openai",
+      "orchestration"
+    ],
+    "saved_at": "2026-05-19T05:17:57Z",
+    "saved_date": "2026-05-19",
+    "saved_month": "2026-05",
+    "domain": "github.com"
   }
 ]

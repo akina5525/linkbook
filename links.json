@@ -229,5 +229,20 @@
       "watchlist",
       "akin"
     ]
+  },
+  {
+    "id": "ddfc9741",
+    "url": "https://github.com/openai/symphony",
+    "title": "GitHub - openai/symphony: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. · GitHub",
+    "description": "",
+    "category": "code",
+    "saved_at": "2026-05-19T05:17:57Z",
+    "tags": [
+      "openai",
+      "agents",
+      "orchestration",
+      "coding-agents",
+      "automation"
+    ]
   }
 ]
