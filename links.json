@@ -248,5 +248,21 @@
       "orchestration"
     ],
     "original_url": "https://github.com/openai/symphony"
+  },
+  {
+    "id": "b5c02a49",
+    "url": "https://github.com/thelastoutpostworkshop/ESPConnect?shem=rimspwouoe,",
+    "title": "GitHub - thelastoutpostworkshop/ESPConnect: Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser · GitHub",
+    "description": "",
+    "category": "code",
+    "saved_at": "2026-05-24T06:09:50Z",
+    "original_url": "https://share.google/xLjFs32KvATgjBTsr",
+    "tags": [
+      "esp32",
+      "webserial",
+      "firmware",
+      "device-tools",
+      "browser-tools"
+    ]
   }
 ]
