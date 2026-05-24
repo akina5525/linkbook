@@ -238,11 +238,15 @@
     "category": "code",
     "saved_at": "2026-05-19T05:17:57Z",
     "tags": [
-      "openai",
       "agents",
-      "orchestration",
+      "ai",
+      "automation",
+      "codex",
       "coding-agents",
-      "automation"
-    ]
+      "linear",
+      "openai",
+      "orchestration"
+    ],
+    "original_url": "https://github.com/openai/symphony"
   }
 ]

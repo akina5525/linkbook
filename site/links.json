@@ -287,14 +287,17 @@
   {
     "id": "ddfc9741",
     "url": "https://github.com/openai/symphony",
-    "original_url": "",
+    "original_url": "https://github.com/openai/symphony",
     "title": "GitHub - openai/symphony: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. · GitHub",
     "description": "",
     "category": "code",
     "tags": [
       "agents",
+      "ai",
       "automation",
+      "codex",
       "coding-agents",
+      "linear",
       "openai",
       "orchestration"
     ],
