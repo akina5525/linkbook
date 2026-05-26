@@ -344,12 +344,16 @@
   {
     "id": "121f6c4b",
     "url": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
-    "original_url": "https://share.google/RQ4fEsPpPnl0Pha82",
+    "original_url": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
     "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator's Garry Tan for AI Agents - MarkTechPost",
     "description": "",
-    "category": "uncategorized",
+    "category": "article",
     "tags": [
-      "ai"
+      "agents",
+      "ai",
+      "memory",
+      "tutorial",
+      "y-combinator"
     ],
     "saved_at": "2026-05-26T06:38:50Z",
     "saved_date": "2026-05-26",
