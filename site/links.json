@@ -378,5 +378,24 @@
     "saved_date": "2026-05-27",
     "saved_month": "2026-05",
     "domain": "profilculture.com"
+  },
+  {
+    "id": "296e0a23",
+    "url": "https://www.app-pixels.com/?shem=rimspwouoe,",
+    "original_url": "https://share.google/Qw8ZchvHUzVPdFRGp",
+    "title": "APP PIXELS — ESP32 App Store",
+    "description": "Browse, download, and flash ESP32 firmware directly from your browser.",
+    "category": "code",
+    "tags": [
+      "browser-tools",
+      "device-tools",
+      "esp32",
+      "firmware",
+      "webserial"
+    ],
+    "saved_at": "2026-05-27T20:35:27Z",
+    "saved_date": "2026-05-27",
+    "saved_month": "2026-05",
+    "domain": "app-pixels.com"
   }
 ]

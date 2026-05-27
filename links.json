@@ -308,5 +308,21 @@
       "france",
       "training"
     ]
+  },
+  {
+    "id": "296e0a23",
+    "url": "https://www.app-pixels.com/?shem=rimspwouoe,",
+    "title": "APP PIXELS — ESP32 App Store",
+    "description": "Browse, download, and flash ESP32 firmware directly from your browser.",
+    "category": "code",
+    "saved_at": "2026-05-27T20:35:27Z",
+    "original_url": "https://share.google/Qw8ZchvHUzVPdFRGp",
+    "tags": [
+      "esp32",
+      "firmware",
+      "webserial",
+      "browser-tools",
+      "device-tools"
+    ]
   }
 ]
