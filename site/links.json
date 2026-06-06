@@ -417,5 +417,24 @@
     "saved_date": "2026-06-06",
     "saved_month": "2026-06",
     "domain": "community.home-assistant.io"
+  },
+  {
+    "id": "0ee799c3",
+    "url": "https://www.reddit.com/r/homeassistant/comments/1jsbua9/is_it_possible_to_use_waveshare/",
+    "original_url": "",
+    "title": "Is it possible to use Waveshare ESP32-S3 for HA voice assistant? - Reddit",
+    "description": "Reddit discussion about using the Waveshare ESP32-S3-Touch-AMOLED-1.8 as a Home Assistant voice assistant",
+    "category": "discussion",
+    "tags": [
+      "esp32",
+      "esphome",
+      "home-assistant",
+      "voice-assistant",
+      "waveshare"
+    ],
+    "saved_at": "2026-06-06T08:11:30Z",
+    "saved_date": "2026-06-06",
+    "saved_month": "2026-06",
+    "domain": "reddit.com"
   }
 ]
