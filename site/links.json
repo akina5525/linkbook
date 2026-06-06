@@ -397,5 +397,25 @@
     "saved_date": "2026-05-27",
     "saved_month": "2026-05",
     "domain": "app-pixels.com"
+  },
+  {
+    "id": "ebc5ce15",
+    "url": "https://community.home-assistant.io/t/esp32-s3-1-8inch-amoled-touch/956270/17",
+    "original_url": "",
+    "title": "ESP32-S3 1.8inch AMOLED Touch - Post 17 Working Config",
+    "description": "Complete working ESPHome voice assistant config for Waveshare ESP32-S3-Touch-AMOLED-1.8 with wake word, display, touch, and timer support",
+    "category": "documentation",
+    "tags": [
+      "esp32",
+      "esphome",
+      "home-assistant",
+      "voice-assistant",
+      "wake-word",
+      "waveshare"
+    ],
+    "saved_at": "2026-06-06T08:07:58Z",
+    "saved_date": "2026-06-06",
+    "saved_month": "2026-06",
+    "domain": "community.home-assistant.io"
   }
 ]
