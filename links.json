@@ -233,15 +233,17 @@
   {
     "id": "1af7c656",
     "url": "https://www.threads.com/login/",
-    "title": "https://www.threads.com/login/",
+    "title": "Threads • Log in",
     "description": "",
-    "category": "uncategorized",
+    "category": "social",
     "saved_at": "2026-07-05T15:23:10Z",
     "original_url": "https://share.google/8KtInJ9dPatBcj1r3",
     "tags": [
       "https",
-      "www",
-      "threads"
+      "login",
+      "social",
+      "threads",
+      "www"
     ]
   }
 ]
