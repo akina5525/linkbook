@@ -231,129 +231,17 @@
     ]
   },
   {
-    "id": "ddfc9741",
-    "url": "https://github.com/openai/symphony",
-    "title": "GitHub - openai/symphony: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. · GitHub",
+    "id": "1af7c656",
+    "url": "https://www.threads.com/login/",
+    "title": "https://www.threads.com/login/",
     "description": "",
-    "category": "code",
-    "saved_at": "2026-05-19T05:17:57Z",
+    "category": "uncategorized",
+    "saved_at": "2026-07-05T15:23:10Z",
+    "original_url": "https://share.google/8KtInJ9dPatBcj1r3",
     "tags": [
-      "agents",
-      "ai",
-      "automation",
-      "codex",
-      "coding-agents",
-      "linear",
-      "openai",
-      "orchestration"
-    ],
-    "original_url": "https://github.com/openai/symphony"
-  },
-  {
-    "id": "b5c02a49",
-    "url": "https://github.com/thelastoutpostworkshop/ESPConnect?shem=rimspwouoe,",
-    "title": "GitHub - thelastoutpostworkshop/ESPConnect: Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser · GitHub",
-    "description": "",
-    "category": "code",
-    "saved_at": "2026-05-24T06:09:50Z",
-    "original_url": "https://share.google/xLjFs32KvATgjBTsr",
-    "tags": [
-      "esp32",
-      "webserial",
-      "firmware",
-      "device-tools",
-      "browser-tools"
-    ]
-  },
-  {
-    "id": "e67232c0",
-    "url": "https://github.com/ggml-org/llama.cpp?shem=rimspwouoe,",
-    "title": "GitHub - ggml-org/llama.cpp: LLM inference in C/C++ · GitHub",
-    "description": "",
-    "category": "code",
-    "saved_at": "2026-05-25T06:46:51Z",
-    "original_url": "https://share.google/XQIzsrAda8PxVNCwb",
-    "tags": [
-      "llm",
-      "code"
-    ]
-  },
-  {
-    "id": "121f6c4b",
-    "url": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
-    "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator's Garry Tan for AI Agents - MarkTechPost",
-    "description": "",
-    "category": "article",
-    "saved_at": "2026-05-26T06:38:50Z",
-    "original_url": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
-    "tags": [
-      "agents",
-      "ai",
-      "memory",
-      "tutorial",
-      "y-combinator"
-    ]
-  },
-  {
-    "id": "3828aaf6",
-    "url": "https://www.profilculture.com/mobile",
-    "title": "ProfilCulture : 1er site emploi formation des métiers de la culture et de la communication",
-    "description": "French jobs, internships, training, and recruiting portal for culture and communication professions.",
-    "category": "career",
-    "saved_at": "2026-05-27T18:59:14Z",
-    "tags": [
-      "jobs",
-      "culture",
-      "career",
-      "france",
-      "training"
-    ]
-  },
-  {
-    "id": "296e0a23",
-    "url": "https://www.app-pixels.com/?shem=rimspwouoe,",
-    "title": "APP PIXELS — ESP32 App Store",
-    "description": "Browse, download, and flash ESP32 firmware directly from your browser.",
-    "category": "code",
-    "saved_at": "2026-05-27T20:35:27Z",
-    "original_url": "https://share.google/Qw8ZchvHUzVPdFRGp",
-    "tags": [
-      "esp32",
-      "firmware",
-      "webserial",
-      "browser-tools",
-      "device-tools"
-    ]
-  },
-  {
-    "id": "ebc5ce15",
-    "url": "https://community.home-assistant.io/t/esp32-s3-1-8inch-amoled-touch/956270/17",
-    "title": "ESP32-S3 1.8inch AMOLED Touch - Post 17 Working Config",
-    "description": "Complete working ESPHome voice assistant config for Waveshare ESP32-S3-Touch-AMOLED-1.8 with wake word, display, touch, and timer support",
-    "category": "documentation",
-    "saved_at": "2026-06-06T08:07:58Z",
-    "tags": [
-      "esp32",
-      "esphome",
-      "waveshare",
-      "voice-assistant",
-      "wake-word",
-      "home-assistant"
-    ]
-  },
-  {
-    "id": "0ee799c3",
-    "url": "https://www.reddit.com/r/homeassistant/comments/1jsbua9/is_it_possible_to_use_waveshare/",
-    "title": "Is it possible to use Waveshare ESP32-S3 for HA voice assistant? - Reddit",
-    "description": "Reddit discussion about using the Waveshare ESP32-S3-Touch-AMOLED-1.8 as a Home Assistant voice assistant",
-    "category": "discussion",
-    "saved_at": "2026-06-06T08:11:30Z",
-    "tags": [
-      "esp32",
-      "esphome",
-      "waveshare",
-      "voice-assistant",
-      "home-assistant"
+      "https",
+      "www",
+      "threads"
     ]
   }
 ]
