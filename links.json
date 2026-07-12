@@ -243,5 +243,21 @@
       "social",
       "threads"
     ]
+  },
+  {
+    "id": "4fa117d4",
+    "url": "https://x.com/tom_doerr/status/2074959138296119806",
+    "title": "Tom Dörr on X: \"ClearDisk is an open-source macOS app that cleans developer caches from tools like Xcode, npm, Homebrew, and Docker. It can identify 50-500 GB of hidden storage. Weighing just 590 KB with zero dependencies, it operates locally without analytics or network access. https://t.co/WWbXepXkNH\" / X",
+    "description": "",
+    "category": "social",
+    "saved_at": "2026-07-12T04:01:51Z",
+    "original_url": "https://share.google/Rhevx5MZD779e300e",
+    "tags": [
+      "macos",
+      "storage-cleanup",
+      "developer-tools",
+      "open-source",
+      "cache-cleaning"
+    ]
   }
 ]
