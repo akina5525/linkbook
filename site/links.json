@@ -417,5 +417,24 @@
     "saved_date": "2026-07-19",
     "saved_month": "2026-07",
     "domain": "x.com"
+  },
+  {
+    "id": "264b5125",
+    "url": "https://x.com/tom_doerr/status/2079636477462327606",
+    "original_url": "",
+    "title": "Code-to-Knowledge-Graph: Turn a codebase into a queryable knowledge graph",
+    "description": "Tom Dörr shares Code-to-Knowledge-Graph, a tool that transforms a codebase into a queryable knowledge graph for extracting entities, relationships, and architectural insights. GitHub: https://github.com/Bevel-Software/code-to-knowledge-graph",
+    "category": "code",
+    "tags": [
+      "architecture",
+      "code-analysis",
+      "developer-tools",
+      "github",
+      "knowledge-graph"
+    ],
+    "saved_at": "2026-07-22T04:25:45Z",
+    "saved_date": "2026-07-22",
+    "saved_month": "2026-07",
+    "domain": "x.com"
   }
 ]
