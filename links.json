@@ -357,5 +357,21 @@
       "github",
       "developer-tools"
     ]
+  },
+  {
+    "id": "207e4950",
+    "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/",
+    "title": "The Microsoft Agent Framework Harness is now released",
+    "description": "Microsoft Agent Framework harness with built-in agent loop, planning, memory, context management, approvals, telemetry, skills, web search, and Python/.NET support.",
+    "category": "code",
+    "saved_at": "2026-07-23T06:45:12Z",
+    "tags": [
+      "agent-framework",
+      "agent-harness",
+      "microsoft",
+      "python",
+      "dotnet",
+      "ai-agents"
+    ]
   }
 ]
