@@ -373,5 +373,21 @@
       "dotnet",
       "ai-agents"
     ]
+  },
+  {
+    "id": "eb46bc16",
+    "url": "https://www.xda-developers.com/gemma-4-is-lightweight-runs-on-my-16gb-laptop-and-costs-0-to-keep-me-productive-offline/",
+    "title": "Gemma 4 is lightweight, runs on my 16GB laptop, and costs $0 to keep me productive offline",
+    "description": "XDA article about running Google Gemma 4 locally and offline on a laptop with 16GB RAM, including the lightweight E4B variant and local productivity use cases.",
+    "category": "ai-tools",
+    "saved_at": "2026-07-25T00:07:38Z",
+    "tags": [
+      "gemma",
+      "local-llm",
+      "offline-ai",
+      "google",
+      "ai-tools",
+      "llama-cpp"
+    ]
   }
 ]
