@@ -389,5 +389,21 @@
       "ai-tools",
       "llama-cpp"
     ]
+  },
+  {
+    "id": "74797c9d",
+    "url": "https://x.com/tom_doerr/status/2080433648038232434",
+    "title": "Tom Dörr on X: An open-source email signature generator",
+    "description": "X post sharing an open-source email signature generator for Gmail, Outlook, and Apple Mail. Primary project: https://github.com/antonreshetov/mysigmail",
+    "category": "social",
+    "saved_at": "2026-07-26T23:20:36Z",
+    "original_url": "https://share.google/7nZObPP1uzAMbGTza",
+    "tags": [
+      "open-source",
+      "email-signatures",
+      "gmail",
+      "outlook",
+      "apple-mail"
+    ]
   }
 ]

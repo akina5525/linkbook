@@ -476,5 +476,24 @@
     "saved_date": "2026-07-25",
     "saved_month": "2026-07",
     "domain": "xda-developers.com"
+  },
+  {
+    "id": "74797c9d",
+    "url": "https://x.com/tom_doerr/status/2080433648038232434",
+    "original_url": "https://share.google/7nZObPP1uzAMbGTza",
+    "title": "Tom Dörr on X: An open-source email signature generator",
+    "description": "X post sharing an open-source email signature generator for Gmail, Outlook, and Apple Mail. Primary project: https://github.com/antonreshetov/mysigmail",
+    "category": "social",
+    "tags": [
+      "apple-mail",
+      "email-signatures",
+      "gmail",
+      "open-source",
+      "outlook"
+    ],
+    "saved_at": "2026-07-26T23:20:36Z",
+    "saved_date": "2026-07-26",
+    "saved_month": "2026-07",
+    "domain": "x.com"
   }
 ]
