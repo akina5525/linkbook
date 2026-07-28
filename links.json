@@ -405,5 +405,20 @@
       "outlook",
       "apple-mail"
     ]
+  },
+  {
+    "id": "e1a0cd7c",
+    "url": "https://github.com/nilbuild/design-patterns-for-humans",
+    "title": "Design Patterns for Humans",
+    "description": "An illustrated guide to software design patterns.",
+    "category": "code",
+    "saved_at": "2026-07-28T09:53:17Z",
+    "original_url": "https://share.google/91jDgZbpNdFvCKXkF",
+    "tags": [
+      "software-design",
+      "design-patterns",
+      "programming",
+      "github"
+    ]
   }
 ]
