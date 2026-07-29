@@ -513,5 +513,20 @@
     "saved_date": "2026-07-28",
     "saved_month": "2026-07",
     "domain": "github.com"
+  },
+  {
+    "id": "2c0d3b6b",
+    "url": "https://www.opensourceprojects.dev/post/system-design",
+    "original_url": "https://share.google/DJX4yXv3VogJsKA0o",
+    "title": "System design concepts from IP to microservices, with real-world examples | Open-source Projects | Open-source Projects",
+    "description": "",
+    "category": "uncategorized",
+    "tags": [
+      "open-source"
+    ],
+    "saved_at": "2026-07-29T06:57:41Z",
+    "saved_date": "2026-07-29",
+    "saved_month": "2026-07",
+    "domain": "opensourceprojects.dev"
   }
 ]
