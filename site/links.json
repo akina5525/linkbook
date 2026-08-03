@@ -548,5 +548,24 @@
     "saved_date": "2026-07-29",
     "saved_month": "2026-07",
     "domain": "github.com"
+  },
+  {
+    "id": "63ad2273",
+    "url": "https://github.com/mrdoob/three.js/",
+    "original_url": "",
+    "title": "three.js — JavaScript 3D Library",
+    "description": "Lightweight, cross-browser, general-purpose JavaScript 3D library with WebGL and WebGPU renderers, plus SVG and CSS3D addons.",
+    "category": "code",
+    "tags": [
+      "3d",
+      "javascript",
+      "open-source",
+      "webgl",
+      "webgpu"
+    ],
+    "saved_at": "2026-08-03T11:36:16Z",
+    "saved_date": "2026-08-03",
+    "saved_month": "2026-08",
+    "domain": "github.com"
   }
 ]
