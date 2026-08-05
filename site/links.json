@@ -567,5 +567,23 @@
     "saved_date": "2026-08-03",
     "saved_month": "2026-08",
     "domain": "github.com"
+  },
+  {
+    "id": "88a28ec2",
+    "url": "https://x.com/databricks/status/2084649668365914298",
+    "original_url": "",
+    "title": "Databricks on X: Omnigent open-source AI meta-harness",
+    "description": "Omnigent is an open-source AI meta-harness for composing, controlling, and collaborating across agent workflows, including Codex, Claude, Cursor, Pi, Antigravity, and custom agents.",
+    "category": "social",
+    "tags": [
+      "agents",
+      "ai",
+      "coding-agents",
+      "open-source"
+    ],
+    "saved_at": "2026-08-05T00:20:50Z",
+    "saved_date": "2026-08-05",
+    "saved_month": "2026-08",
+    "domain": "x.com"
   }
 ]

@@ -464,5 +464,19 @@
       "webgpu",
       "open-source"
     ]
+  },
+  {
+    "id": "88a28ec2",
+    "url": "https://x.com/databricks/status/2084649668365914298",
+    "title": "Databricks on X: Omnigent open-source AI meta-harness",
+    "description": "Omnigent is an open-source AI meta-harness for composing, controlling, and collaborating across agent workflows, including Codex, Claude, Cursor, Pi, Antigravity, and custom agents.",
+    "category": "social",
+    "saved_at": "2026-08-05T00:20:50Z",
+    "tags": [
+      "ai",
+      "agents",
+      "open-source",
+      "coding-agents"
+    ]
   }
 ]
