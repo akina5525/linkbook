@@ -478,5 +478,20 @@
       "open-source",
       "coding-agents"
     ]
+  },
+  {
+    "id": "42d5eee6",
+    "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/",
+    "title": "Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
+    "description": "Reflex open sources XY, a Rust-backed Python charting library rendering 100 million points interactively at 0.081 seconds. Shared via https://share.google/Gdekw5bfmPA2kgkNW",
+    "category": "article",
+    "saved_at": "2026-08-06T04:58:26Z",
+    "tags": [
+      "python",
+      "charting",
+      "rust",
+      "data-visualization",
+      "open-source"
+    ]
   }
 ]
