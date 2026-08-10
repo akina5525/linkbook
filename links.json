@@ -493,5 +493,19 @@
       "data-visualization",
       "open-source"
     ]
+  },
+  {
+    "id": "b152220e",
+    "url": "https://github.com/mufeedvh/code2prompt",
+    "title": "Code2Prompt — Convert your codebase into a single LLM prompt",
+    "description": "A Rust-based CLI and ecosystem for turning codebases into structured context for large language models, with source-tree generation, prompt templating, token counting, Python SDK, and MCP support.",
+    "category": "code",
+    "saved_at": "2026-08-10T17:39:14Z",
+    "tags": [
+      "llm",
+      "context-engineering",
+      "rust",
+      "developer-tools"
+    ]
   }
 ]
