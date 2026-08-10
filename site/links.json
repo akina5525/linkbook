@@ -622,5 +622,24 @@
     "saved_date": "2026-08-10",
     "saved_month": "2026-08",
     "domain": "github.com"
+  },
+  {
+    "id": "1d3db50d",
+    "url": "https://github.com/Nuver-Labs/vps-audit",
+    "original_url": "",
+    "title": "VPS Security Audit Script",
+    "description": "A lightweight, dependency-free Bash script for security, performance auditing, and infrastructure monitoring of Linux VPS servers. Checks SSH, firewalls, intrusion prevention, failed logins, updates, services, ports, SUID files, and resource usage.",
+    "category": "code",
+    "tags": [
+      "bash",
+      "devops",
+      "linux-security",
+      "server-audit",
+      "vps"
+    ],
+    "saved_at": "2026-08-10T17:42:14Z",
+    "saved_date": "2026-08-10",
+    "saved_month": "2026-08",
+    "domain": "github.com"
   }
 ]
