@@ -657,5 +657,22 @@
     "saved_date": "2026-08-19",
     "saved_month": "2026-08",
     "domain": "x.com"
+  },
+  {
+    "id": "97f53c84",
+    "url": "https://x.com/GithubProjects/status/2089219757811896510",
+    "original_url": "",
+    "title": "GitHub Projects Community on X: \"APITable is an open-source alternative that brings realtime collaboration to your data. Self-host it, spin up a Gitpod demo, or deploy to DigitalOcean in one click.\" / X",
+    "description": "",
+    "category": "social",
+    "tags": [
+      "code",
+      "open-source",
+      "social"
+    ],
+    "saved_at": "2026-08-19T23:44:34Z",
+    "saved_date": "2026-08-19",
+    "saved_month": "2026-08",
+    "domain": "x.com"
   }
 ]

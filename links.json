@@ -534,5 +534,18 @@
       "self-hosting",
       "social"
     ]
+  },
+  {
+    "id": "97f53c84",
+    "url": "https://x.com/GithubProjects/status/2089219757811896510",
+    "title": "GitHub Projects Community on X: \"APITable is an open-source alternative that brings realtime collaboration to your data. Self-host it, spin up a Gitpod demo, or deploy to DigitalOcean in one click.\" / X",
+    "description": "",
+    "category": "social",
+    "saved_at": "2026-08-19T23:44:34Z",
+    "tags": [
+      "open-source",
+      "code",
+      "social"
+    ]
   }
 ]
