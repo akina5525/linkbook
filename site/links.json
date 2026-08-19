@@ -641,5 +641,21 @@
     "saved_date": "2026-08-10",
     "saved_month": "2026-08",
     "domain": "github.com"
+  },
+  {
+    "id": "e4ea99f4",
+    "url": "https://x.com/tom_doerr/status/2089069417359380886",
+    "original_url": "",
+    "title": "Tom Dörr on X: \"Traceway unifies logs, traces, metrics, and exceptions into one self-hosted OpenTelemetry-native observability platform. https://t.co/QJRHOPs01G\" / X",
+    "description": "",
+    "category": "social",
+    "tags": [
+      "self-hosting",
+      "social"
+    ],
+    "saved_at": "2026-08-19T07:07:26Z",
+    "saved_date": "2026-08-19",
+    "saved_month": "2026-08",
+    "domain": "x.com"
   }
 ]
