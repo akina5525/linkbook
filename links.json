@@ -560,7 +560,8 @@
       "agent-skills",
       "claude-code",
       "codex",
-      "copilot"
+      "copilot",
+      "cursor"
     ]
   }
 ]
