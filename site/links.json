@@ -682,7 +682,9 @@
     "title": "Tom Dörr on X: \"Installs 28 portable thinking skills into Claude Code, GitHub Copilot, Codex, and Cursor to provide agents with structured mental models for diagnosis, decisions, and strategy. https://t.co/CbsVfNbStH\" / X",
     "description": "",
     "category": "social",
-    "tags": [],
+    "tags": [
+      "agent-skills"
+    ],
     "saved_at": "2026-08-22T22:45:01Z",
     "saved_date": "2026-08-22",
     "saved_month": "2026-08",
