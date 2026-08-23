@@ -693,5 +693,24 @@
     "saved_date": "2026-08-22",
     "saved_month": "2026-08",
     "domain": "x.com"
+  },
+  {
+    "id": "31ccd6a3",
+    "url": "https://www.howtogeek.com/old-kindle-as-second-monitor/",
+    "original_url": "",
+    "title": "How I de-Amazoned my old Kindle and turned it into a second monitor in under an hour",
+    "description": "A How-To Geek guide describing how to jailbreak an old Kindle, capture a Mac window with screencapture, serve refreshed grayscale images over the local network, and display them on the Kindle as a simple second monitor.",
+    "category": "article",
+    "tags": [
+      "jailbreak",
+      "kindle",
+      "mac",
+      "notion",
+      "second-monitor"
+    ],
+    "saved_at": "2026-08-23T22:58:45Z",
+    "saved_date": "2026-08-23",
+    "saved_month": "2026-08",
+    "domain": "howtogeek.com"
   }
 ]
