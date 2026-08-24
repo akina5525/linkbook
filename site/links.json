@@ -712,5 +712,24 @@
     "saved_date": "2026-08-23",
     "saved_month": "2026-08",
     "domain": "howtogeek.com"
+  },
+  {
+    "id": "9670c64e",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+    "original_url": "",
+    "title": "Mercury Skills — curated registry of reusable agent skills",
+    "description": "Open-source registry of reusable SKILL.md playbooks for Mercury Agent, OpenClaw, Hermes Agent, Codex CLI, Cursor, and Gemini CLI; 132 skills across 23 categories.",
+    "category": "code",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "developer-workflows",
+      "hermes",
+      "openclaw"
+    ],
+    "saved_at": "2026-08-24T05:38:26Z",
+    "saved_date": "2026-08-24",
+    "saved_month": "2026-08",
+    "domain": "github.com"
   }
 ]
