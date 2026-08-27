@@ -593,5 +593,20 @@
       "openclaw",
       "developer-workflows"
     ]
+  },
+  {
+    "id": "c5f15fb5",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "title": "design-extract — Extract complete website design systems",
+    "description": "Open-source CLI and MCP tooling that extracts a website's design system into DTCG tokens and emits formats for iOS SwiftUI, Android Compose, Flutter, WordPress, Tailwind v4, Figma variables, shadcn/ui, plus CSS health and WCAG audits.",
+    "category": "code",
+    "saved_at": "2026-08-27T06:58:32Z",
+    "tags": [
+      "design-system",
+      "design-tokens",
+      "ai-tools",
+      "mcp",
+      "playwright"
+    ]
   }
 ]
