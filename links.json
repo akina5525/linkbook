@@ -608,5 +608,21 @@
       "mcp",
       "playwright"
     ]
+  },
+  {
+    "id": "96ab5cc7",
+    "url": "https://www.howtogeek.com/microsoft-excel-stopped-pretending-database-switched-to-grist/",
+    "title": "I stopped pretending Excel is a database and switched to this open-source app (Grist)",
+    "description": "How-To Geek yazarı Tony Phillips, ilişkisel veri için Excel yerine açık kaynak Grist'e geçiyor: XLOOKUP yerine native Reference/lookup ilişkileri, widget tabanlı dashboard'lar, Select By ile etkileşimli görünümler ve özet tablolar.",
+    "category": "article",
+    "saved_at": "2026-08-31T04:27:17Z",
+    "original_url": "https://share.google/rVaRcDQEzDxACZCP7",
+    "tags": [
+      "grist",
+      "excel",
+      "open-source",
+      "database",
+      "spreadsheet"
+    ]
   }
 ]
