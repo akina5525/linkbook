@@ -769,5 +769,22 @@
     "saved_date": "2026-08-31",
     "saved_month": "2026-08",
     "domain": "howtogeek.com"
+  },
+  {
+    "id": "4130dc0b",
+    "url": "https://www.xda-developers.com/run-local-llms-inside-chatgpt-desktop-app-one-free-open-source-tool/",
+    "original_url": "https://share.google/CUiLlF0Ow6sy6ulM4",
+    "title": "I run my local LLMs inside the ChatGPT desktop app now, and it took one free open-source tool to do it",
+    "description": "",
+    "category": "article",
+    "tags": [
+      "article",
+      "llm",
+      "open-source"
+    ],
+    "saved_at": "2026-09-19T06:38:14Z",
+    "saved_date": "2026-09-19",
+    "saved_month": "2026-09",
+    "domain": "xda-developers.com"
   }
 ]

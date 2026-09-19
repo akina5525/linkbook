@@ -624,5 +624,19 @@
       "database",
       "spreadsheet"
     ]
+  },
+  {
+    "id": "4130dc0b",
+    "url": "https://www.xda-developers.com/run-local-llms-inside-chatgpt-desktop-app-one-free-open-source-tool/",
+    "title": "I run my local LLMs inside the ChatGPT desktop app now, and it took one free open-source tool to do it",
+    "description": "",
+    "category": "article",
+    "saved_at": "2026-09-19T06:38:14Z",
+    "original_url": "https://share.google/CUiLlF0Ow6sy6ulM4",
+    "tags": [
+      "open-source",
+      "llm",
+      "article"
+    ]
   }
 ]
