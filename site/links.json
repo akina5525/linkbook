@@ -786,5 +786,24 @@
     "saved_date": "2026-09-19",
     "saved_month": "2026-09",
     "domain": "xda-developers.com"
+  },
+  {
+    "id": "2be7dd44",
+    "url": "https://mixed-news.com/en/meta-muse-gadgets-sdk-open-source-home-link-esp32-c5/",
+    "original_url": "",
+    "title": "Meta open-sourced the Muse gadget SDKs, but its own Home Link can’t be reflashed",
+    "description": "Meta open-sourced the Muse device SDKs and firmware for ESP32 boards and Raspberry Pi, while its own ESP32-C5 Muse Home Link remains official-firmware-only and cannot be reflashed. Shared via Google link: https://share.google/2DsutNUWfIQIspAos",
+    "category": "article",
+    "tags": [
+      "esp32",
+      "meta",
+      "muse",
+      "open-source",
+      "smart-home"
+    ],
+    "saved_at": "2026-10-05T08:13:54Z",
+    "saved_date": "2026-10-05",
+    "saved_month": "2026-10",
+    "domain": "mixed-news.com"
   }
 ]
